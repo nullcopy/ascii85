@@ -6,3 +6,7 @@ https://www.reddit.com/r/dailyprogrammer/comments/7gdsy4/20171129_challenge_342_
 1) Clone or download this repository.
 2) Build with `cargo build`
 3) Run `./target/debug/ascii85 -h` for usage instructions.
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0 or later](LICENSE) (`GPL-3.0-or-later`).
